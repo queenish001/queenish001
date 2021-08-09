@@ -13,7 +13,7 @@
 
 </br>
 
-## [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=queenish001&theme=cottoncandy)](https://git.io/queenish001)
+## [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=queenish001&theme=rogue)](https://git.io/queenish001)
 </br>
 
 ### 🔹**Tech Stack:**
