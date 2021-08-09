@@ -18,7 +18,7 @@
 
 ### 🔹**Tech Stack:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -28,8 +28,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=sql)
 
 ### 🔸**Connect with me:**
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishi-a414541bb/)](https://www.linkedin.com/in/nishi-a414541bb/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/nish_kan01)](https://twitter.com/nish_kan01)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishi-a414541bb/)](https://www.linkedin.com/in/nishi-a414541bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nish.kan01@gmail.com)](mailto:nish.kan01@gmail.com)
 
 ### 🔹**You can also checkout:**
