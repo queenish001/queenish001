@@ -40,10 +40,10 @@
 </br>
 
 ### 🔸**Github Stats**
-<p>
+<div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=queenish001&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=queenish001&theme=radical" />
-</p>
+</div>
 
 <!-- <a href="https://github.com/queenish001">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenish001&theme=dark&hide_langs_below=1" />
