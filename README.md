@@ -1,4 +1,4 @@
-# ***Hie there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) <img src="images/wave.gif" alt="wave" width="25"/>
+# ***Hie there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🙋🏻‍♀️
 
 ### *Currently I'm a Sophomore, pursuing BTech in CSAI at [IGDTUW](igdtuw.ac.in) 📚*
 
