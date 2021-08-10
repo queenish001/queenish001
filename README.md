@@ -1,4 +1,4 @@
-# ***Hie there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🙋🏻‍♀️
+# ***Holo there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🙋🏻‍♀️
 
 ### *Currently I'm a Sophomore, pursuing BTech in CSAI at [IGDTUW](igdtuw.ac.in) 📚*
 
@@ -10,13 +10,11 @@
 - 👭Working with Coding clubs in my College
 - 📖Reading a Book
 - 🤩Hanging out on Discord 
-
-</br>
-
+--------------------------------------------------------------------------------
 ## [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=queenish001&theme=rogue)](https://git.io/queenish001)
 </br>
 
-### 🔹**Tech Stack:**
+## 🔹**Tech Stack:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
@@ -27,19 +25,19 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=sql)
 
-### 🔸**Connect with me:**
+## 🔸**Connect with me:**
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/nish_kan01)](https://twitter.com/nish_kan01)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishi-a414541bb/)](https://www.linkedin.com/in/nishi-a414541bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nish.kan01@gmail.com)](mailto:nish.kan01@gmail.com)
 
-### 🔹**You can also checkout:**
+## 🔹**You can also checkout:**
 [![Medium](https://img.shields.io/badge/Medium-2648ff?style=flat&logo=medium&logoColor=black&color=white)](https://queenish001.github.io/)
 [![Dev.to](https://img.shields.io/badge/-Nishi-03a57a?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/queenish01)](https://dev.to/queenish01)
 [![website](https://img.shields.io/badge/Portfolio-2648ff?style=flat&logo=google-chrome)](https://queenish001.github.io/)
 
 </br>
 
-### 🔸**Github Stats**
+## 🔸**Github Stats**
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=queenish001&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=queenish001&theme=radical" />
