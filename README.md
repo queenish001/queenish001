@@ -10,8 +10,11 @@
 - 👭Working with Coding clubs in my College
 - 📖Reading a Book
 - 🤩Hanging out on Discord 
---------------------------------------------------------------------------------
-## [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=queenish001&theme=rogue)](https://git.io/queenish001)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=queenish001&theme=rogue)](https://git.io/queenish001)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </br>
 
 ## 🔹**Tech Stack:**
@@ -38,6 +41,7 @@
 </br>
 
 ## 🔸**Github Stats**
+
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=queenish001&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=queenish001&theme=radical" />
