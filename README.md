@@ -31,9 +31,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nish.kan01@gmail.com)](mailto:nish.kan01@gmail.com)
 
 ## 🔹**You can also checkout:**
-[![Medium](https://img.shields.io/badge/Medium-2648ff?style=flat&logo=medium&logoColor=black&color=white)](https://queenish001.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-2648ff?style=flat&logo=medium&logoColor=black&color=white)](https://queenish01.medium.com/)
 [![Dev.to](https://img.shields.io/badge/-Nishi-03a57a?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/queenish01)](https://dev.to/queenish01)
-[![website](https://img.shields.io/badge/Portfolio-2648ff?style=flat&logo=google-chrome)](https://queenish001.github.io/)
+[![website](https://img.shields.io/badge/Portfolio-2648ff?style=flat&logo=google-chrome)](https://queenish-portfolio.netlify.app/)
 
 </br>
 
