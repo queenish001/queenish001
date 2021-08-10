@@ -28,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=sql)
 
+
 ## 🔸**Connect with me:**
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/nish_kan01)](https://twitter.com/nish_kan01)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishi-a414541bb/)](https://www.linkedin.com/in/nishi-a414541bb/)
@@ -40,7 +41,9 @@
 
 </br>
 
-## 🔸**Github Stats**
+## 🔸Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{queenish001}/count.svg)
+
+## 🔹**Github Stats**
 
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=queenish001&show_icons=true&theme=radical" />
