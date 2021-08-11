@@ -1,4 +1,4 @@
-# ***Holo there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🙋🏻‍♀️
+# ***Holo there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🌌
 
 ### *Currently I'm a Sophomore, pursuing BTech in CSAI at [IGDTUW](igdtuw.ac.in) 📚*
 
