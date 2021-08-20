@@ -5,7 +5,7 @@
 ### 🔸*Right now, You'll find me:-*
 
 - 💻Learning DSA
-- 👩🏻‍💻Learning Web Development or Python, while working on some project
+- 👩🏻‍💻Learning Web Development, while working on some project
 - 💼Studying about Product Management
 - 📖Reading a Book
 - 🤩Hanging out on Discord 
