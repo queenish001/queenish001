@@ -7,7 +7,6 @@
 - 💻Learning DSA
 - 👩🏻‍💻Learning Web Development or Python, while working on some project
 - 💼Studying about Product Management
-- 👭Working with Coding clubs in my College
 - 📖Reading a Book
 - 🤩Hanging out on Discord 
 
