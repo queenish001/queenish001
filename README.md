@@ -7,7 +7,7 @@
 - 💻Studying DSA
 - 👩🏻‍💻Learning Web Development, while working on some project
 - 💼Studying about Product Management
-- 📖Reading a Book
+- 📖Managing communities
 - 🤩Hanging out on Discord 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
