@@ -1,4 +1,4 @@
-# ***Holo there! I'm*** [***Nishi***](http://queenish-portfolio.netlify.app/) 🌌
+![gh_banner](https://user-images.githubusercontent.com/77614377/139137223-a58b3dd9-8d5a-4312-b84e-d00d1004649d.gif)
 
 ### *Currently I'm a Sophomore, pursuing BTech in CSAI at [IGDTUW](igdtuw.ac.in) 📚*
 
