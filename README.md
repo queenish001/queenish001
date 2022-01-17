@@ -6,7 +6,7 @@
 
 - 💻Studying DSA
 - 👩🏻‍💻Learning Web Development, while working on some project
-- 💼Studying about Product Management
+- ✍🏻Writing Something
 - 📖Managing communities
 - 🤩Hanging out on Discord 
 
