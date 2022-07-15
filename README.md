@@ -4,11 +4,10 @@
 
 ### 🔸*Right now, You'll find me:-*
 
-- 💻Studying DSA
-- 👩🏻‍💻Learning Web Development, while working on some project
-- ✍🏻Writing Something
-- 📖Managing communities
-- 🤩Hanging out on Discord 
+- 💻Improving my Problem Solving Skills
+- 👩🏻‍💻Learning Web Development or Machine Learning, while working on some project
+- 📖Studying German
+- ✨Fangirling over my favorite singer :)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
