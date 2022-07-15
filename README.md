@@ -35,7 +35,7 @@
 ## 🔹**You can also checkout:**
 [![Medium](https://img.shields.io/badge/Medium-2648ff?style=flat&logo=medium&logoColor=black&color=white)](https://queenish01.medium.com/)
 [![Dev.to](https://img.shields.io/badge/-Nishi-03a57a?style=flat&labelColor=000000&logo=Dev.to&link=https://dev.to/queenish01)](https://dev.to/queenish01)
-[![website](https://img.shields.io/badge/Portfolio-2648ff?style=flat&logo=google-chrome)](https://queenish-portfolio.netlify.app/)
+[![website](https://img.shields.io/badge/Portfolio-2648ff?style=flat&logo=google-chrome)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </br>
 
